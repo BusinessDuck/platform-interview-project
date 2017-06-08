@@ -7,7 +7,7 @@ import _ from 'lodash'; // If you want underscore/lodash.
 import styles from './styles/app.scss';
 
 function buildAd() {
-    //JSON: http://live.spongecell.com/interview/ad_revision.json
+    //JSON: http://localhost:3000/assets/ad.json
 }
 
 document.addEventListener('DOMContentLoaded', buildAd);

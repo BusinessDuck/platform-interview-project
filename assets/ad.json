@@ -5,14 +5,9 @@
     "3": "/assets/images/logo.png"
   },
   "settings": {
-    "background": null,
-    "elements": null,
     "screens": [{
       "elements": [
         {
-          "action": {
-            "interaction": "click"
-          },
           "iid": "2babe05s",
           "image": {
             "masterAssetId": 2
@@ -26,9 +21,6 @@
           "type": "image"
         },
         {
-          "action": {
-            "interaction": "click"
-          },
           "iid": "to85tq0n",
           "image": {
             "masterAssetId": 3
@@ -110,5 +102,4 @@
     "height": "250px",
     "width": "300px"
   },
-  "updatedAt": "2016-10-04T14:24:15.000-07:00"
 }

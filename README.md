@@ -15,6 +15,11 @@ An element is an object within the screen.  For this exercise, there will only b
 
 Your application must fetch JSON from the above URL and assemble a basic ad as HTML. Image elements should load their corresponding assets and text should be displayed according to the style specified in the element settings (hint: not all data within the JSON will be relevant to this task).
 
+## Ad Structure
+![Ad Structure](https://github.com/Spongecell/platform-interview-project/blob/master/adstructure.png?raw=true)
+- Ads are composed of screens (think views, or slides in a carousel). Screens are composed of elements.
+- Elements are either "text" elements or "image" elements.
+
 ## Requirements:
 - node^6.3.0 ( can be installed via Homebrew with 'brew install node' or [install manually](https://nodejs.org/en/))
 

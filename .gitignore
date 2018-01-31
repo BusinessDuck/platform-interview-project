@@ -10,7 +10,7 @@ pids
 *.seed
 
 **/.DS_STORE
-
+.idea
 
 # node-waf configuration
 .lock-wscript
